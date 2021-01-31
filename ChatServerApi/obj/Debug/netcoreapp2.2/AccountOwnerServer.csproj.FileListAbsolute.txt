@@ -1,0 +1,56 @@
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\nlog.config
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\AccountOwnerServer.deps.json
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\AccountOwnerServer.runtimeconfig.json
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\AccountOwnerServer.runtimeconfig.dev.json
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\AccountOwnerServer.dll
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\AccountOwnerServer.pdb
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\Contracts.dll
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\Entities.dll
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\LoggerService.dll
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\Repository.dll
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\LoggerService.pdb
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\Repository.pdb
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\Contracts.pdb
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.AssemblyInfo.cs
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.RazorAssemblyInfo.cache
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.RazorAssemblyInfo.cs
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.RazorTargetAssemblyInfo.cache
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.csproj.CopyComplete
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.dll
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.pdb
+C:\Users\HP\Downloads\.NET-Core-Series-master\.NET-Core-Series-master\Part 17\.NET Core part - end\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.genruntimeconfig.cache
+E:\Work\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\nlog.config
+E:\Work\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Work\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Work\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\Work\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\AccountOwnerServer.deps.json
+E:\Work\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\AccountOwnerServer.runtimeconfig.json
+E:\Work\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\AccountOwnerServer.runtimeconfig.dev.json
+E:\Work\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\AccountOwnerServer.dll
+E:\Work\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\AccountOwnerServer.pdb
+E:\Work\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\Contracts.dll
+E:\Work\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\Entities.dll
+E:\Work\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\LoggerService.dll
+E:\Work\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\Repository.dll
+E:\Work\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\LoggerService.pdb
+E:\Work\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\Repository.pdb
+E:\Work\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\Contracts.pdb
+E:\Work\.NET Core part - end\AccountOwnerServer\bin\Debug\netcoreapp2.2\Entities.pdb
+E:\Work\.NET Core part - end\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.csprojAssemblyReference.cache
+E:\Work\.NET Core part - end\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.AssemblyInfoInputs.cache
+E:\Work\.NET Core part - end\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.AssemblyInfo.cs
+E:\Work\.NET Core part - end\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.csproj.CoreCompileInputs.cache
+E:\Work\.NET Core part - end\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.RazorAssemblyInfo.cache
+E:\Work\.NET Core part - end\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.RazorAssemblyInfo.cs
+E:\Work\.NET Core part - end\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.RazorTargetAssemblyInfo.cache
+E:\Work\.NET Core part - end\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.csproj.CopyComplete
+E:\Work\.NET Core part - end\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.dll
+E:\Work\.NET Core part - end\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.pdb
+E:\Work\.NET Core part - end\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.genruntimeconfig.cache
